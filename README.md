@@ -6,6 +6,6 @@ Es un repositorio del curso de Comunicaciones Digitales de la Fundación Fulgor
 Grupo Viterbi 
 ---
 ## Integrantes: 
-- Baccino Lucca.
+- Baccino Luca.
 - Cesana Andrés Agustín.
 - Mancini Matías.
